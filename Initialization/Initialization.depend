@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674910207 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-08-Arrays/Initialization/main.c
+	<stdio.h>
+	<stdlib.h>
+
