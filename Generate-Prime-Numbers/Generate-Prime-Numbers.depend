@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674996001 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-08-Arrays/Generate-Prime-Numbers/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
