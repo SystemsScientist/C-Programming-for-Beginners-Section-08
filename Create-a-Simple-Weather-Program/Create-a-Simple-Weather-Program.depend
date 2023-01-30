@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675082062 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-08-Arrays/Create-a-Simple-Weather-Program/main.c
+	<stdio.h>
+	<stdlib.h>
+
