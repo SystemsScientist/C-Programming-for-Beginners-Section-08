@@ -7,6 +7,9 @@ multi-dimenstional arrays, and variable length arrays.
 
 See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginner-/" title="C Programming" target="_blank">C Programming for Beginners</a>
 
+<i>This repository is currently a work in progress and new material
+will be added over time, if need be.</i>
+
 In this repository, I incorporated Code::Blocks Integrated Development
 Environment (IDE) and the Vim text editor along with Git and GitHub into
 my workflow. I also used the Fedora 37 system in a VirtualBox environment
